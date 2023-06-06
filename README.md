@@ -15,6 +15,7 @@ I am Sonish Sivarajkumar, a PhD Candidate in Intelligent Systems Program at the 
 - 💬 Ask me about Clinical NLP, Information Retrieval, Information Extraction, Large Language Models, and Foundational healthcare AI models .
 - 📫 You can reach me at sonish.sivarajkumar@pitt.edu or sonish.sivarajkumar@gmail.com.
 - :man: Pronouns: he/him/his
+- :sunglasses: Fun fact: I’m an electrical engineer turned clinical NLP researcher. I switched from electrical transformers to natural language transformers. 
 
 <!-- ![Sonish's Github Stats](https://github-readme-stats.vercel.app/api?username=SonishSivarajkumar) -->
 <!-- <img align="left" src="https://github-readme-stats.vercel.app/api?username=SonishSivarajkumar&count_private=true&show_icons=false&theme=default" />
