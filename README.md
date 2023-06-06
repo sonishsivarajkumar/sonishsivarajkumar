@@ -7,7 +7,7 @@
 
 Icons borrowed from [David Stutz](https://github.com/davidstutz/davidstutz/blob/master/README.md)
 
-I am Sonish Sivarajkumar, a PhD Candidate in Intelligent Systems Program at the School of Computing and Information, University of Pittsburgh. My research interests lie in Clinical Natural Language Processing, Information Retrieval, Information Extraction, Few/Zero-shot Learning, and Clinical Large Language Models (cLLMs). I am also interested in Foundational AI models, Biomedical Informatics, Electronic Health Records (EHR), and Real World Evidence (RWE).
+I am Sonish Sivarajkumar, a PhD Candidate in Intelligent Systems Program at the School of Computing and Information, University of Pittsburgh. My research interests lie in Clinical Natural Language Processing, Information Retrieval, Information Extraction, Few/Zero-shot Learning, and Clinical Large Language Models (cLLMs). I am also interested in Foundational AI models, Biomedical Informatics,and Electronic Health Records (EHR)
 
 - :computer: Check out my [website](https://sonishsivarajkumar.github.io/homepage)
 - 🔭 I am currently working at Pitt NLP and AI Lab[PittNAIL](https://pittnail.github.io)
