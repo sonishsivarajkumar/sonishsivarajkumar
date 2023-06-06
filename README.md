@@ -1,8 +1,7 @@
 ### Hi there! 👋
 
 [![](https://img.shields.io/badge/🌐website-gray?&style=for-the-badge)](https://sonishsivarajkumar.github.io/homepage)
-[![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)]
-(https://www.linkedin.com/in/sonish-sivarajkumar-7b2b19163/)
+[![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sonish-sivarajkumar-7b2b19163/)
 [![](https://img.shields.io/badge/github-%230077B5.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/sonishsivarajkumar)
 [![](https://img.shields.io/badge/google_scholar-%234285F4.svg?&style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=<your-google-scholar-id>&hl=en)
 
