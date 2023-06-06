@@ -7,12 +7,12 @@
 
 Icons borrowed from [David Stutz](https://github.com/davidstutz/davidstutz/blob/master/README.md)
 
-I am Sonish Sivarajkumar, a PhD student in Intelligent Systems at the University of Pittsburgh. My research interests lie in Natural Language Processing, Information Retrieval, Information Extraction, Few/Zero-shot Learning, and Clinical Large Language Models (cLLMs). I am also interested in Biomedical Informatics, Electronic Health Records (EHR), and Real World Evidence (RWE).
+I am Sonish Sivarajkumar, a PhD Candidate in Intelligent Systems Program at the School of Computing and Information, University of Pittsburgh. My research interests lie in Clinical Natural Language Processing, Information Retrieval, Information Extraction, Few/Zero-shot Learning, and Clinical Large Language Models (cLLMs). I am also interested in Foundational AI models, Biomedical Informatics, Electronic Health Records (EHR), and Real World Evidence (RWE).
 
-- :computer: Check out my [website](https://sonishsivarajkumar.github.io/)
-- 🔭 I am currently a graduate student researcher at the University of Pittsburgh's Intelligent Systems Program.
-- 🌱 I work on foundational models and language models for generative patient representation using soft prompting and zero-shot learning on generative patient models.
-- 💬 Ask me about NLP, Information Retrieval, Information Extraction, Clinical NLP, and Large Language Models.
+- :computer: Check out my [website](https://sonishsivarajkumar.github.io/homepage)
+- 🔭 I am currently working at Pitt NLP and AI Lab[PittNAIL](https://pittnail.github.io)
+- 🌱 I work on foundational AI models and language models for patient representation 
+- 💬 Ask me about Clinical NLP, Information Retrieval, Information Extraction, Large Language Models, and Foundational healthcare AI models .
 - 📫 You can reach me at sonish.sivarajkumar@pitt.edu or sonish.sivarajkumar@gmail.com.
 - :man: Pronouns: he/him/his
 
