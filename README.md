@@ -13,7 +13,7 @@ I am Sonish Sivarajkumar, a PhD student in Intelligent Systems at the University
 - 🔭 I am currently a graduate student researcher at the University of Pittsburgh's Intelligent Systems Program.
 - 🌱 I work on foundational models and language models for generative patient representation using soft prompting and zero-shot learning on generative patient models.
 - 💬 Ask me about NLP, Information Retrieval, Information Extraction, Clinical NLP, and Large Language Models.
-- 📫 You can reach me at sos86@pitt.edu or +1 412 478 8959.
+- 📫 You can reach me at sonish.sivarajkumar@pitt.edu or sonish.sivarajkumar@gmail.com.
 - :man: Pronouns: he/him/his
 
 <!-- ![Sonish's Github Stats](https://github-readme-stats.vercel.app/api?username=SonishSivarajkumar) -->
