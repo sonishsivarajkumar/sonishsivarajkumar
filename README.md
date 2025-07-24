@@ -7,7 +7,7 @@
 
 Icons borrowed from [David Stutz](https://github.com/davidstutz/davidstutz/blob/master/README.md)
 
-I am Sonish Sivarajkumar, a PhD Candidate in Intelligent Systems Program at the School of Computing and Information, University of Pittsburgh. My research interests lie in Clinical Natural Language Processing, Information Retrieval, Information Extraction, Few/Zero-shot Learning, and Clinical Large Language Models (cLLMs). I am also interested in Foundational AI models, Biomedical Informatics,and Electronic Health Records (EHR)
+I’m Sonish Sivarajkumar, a Research Scientist at Eli Lilly & Co. specializing in deep learning, generative and agentic AI. I earned my doctorate in Intelligent Systems (Informatics Track) from the University of Pittsburgh’s School of Computing and Information. My research encompasses clinical NLP, information retrieval and extraction, few- and zero-shot learning, clinical large language models, and agentic AI systems. I’m also deeply invested in foundational AI models, translational research, biomedical informatics, and the use of real-world evidence and EHR data to drive biomedical discoveries and advance clinical trials.
 
 - :computer: Check out my [website](https://sonishsivarajkumar.github.io/homepage)
 - 🔭 I am currently working at Pitt NLP and AI Lab ([PittNAIL](https://pittnail.github.io))
